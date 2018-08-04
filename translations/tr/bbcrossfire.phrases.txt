@@ -1,0 +1,15 @@
+"Phrases"
+{
+
+	"NukleerStarted"
+	{
+		"#format"	"{1:s}"
+		"tr"		"{green}{1} {default}Nükleer'i çalıştırdı."
+	}
+
+	"LongJumpEquiped"
+	{
+		"tr"		"Uzun Atlama Modülünü {green}CTRL + JUMP{default} tuşları ile kullanabilirsin."
+	}
+
+}

@@ -1,0 +1,15 @@
+"Phrases"
+{
+
+	"NukleerStarted"
+	{
+		"#format"	"{1:s}"
+		"tr"		"{green}{1} {default}Nukleer Started."
+	}
+
+	"LongJumpEquiped"
+	{
+		"tr"		"You can use the Long Jump Module with the {green} CTRL + JUMP {default} keys."
+	}
+
+}
